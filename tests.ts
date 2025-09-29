@@ -10,7 +10,7 @@ import penguins from "./penguins.json" with { type: 'json' };
 console.log("=== EXEMPLES DES MÉTHODES ARRAY AVEC LES DONNÉES PENGUINS ===\n");
 console.log(`Nombre total de pingouins: ${penguins.length}\n`);
 
-// ===== MÉTHODES D'ACCÈS AUX ÉLÉMENTS =====
+// ===== MÉTHODES D'ACCÈS AUX ÉLÉMENTS123 =====
 
 console.log("--- MÉTHODES D'ACCÈS AUX ÉLÉMENTS ---");
 
