@@ -8,7 +8,7 @@ import penguins from "./penguins.json" with { type: 'json' };
 /* Désactiver COPILOT pour que vous fassiez l'effort de lire */
 
 console.log("=== EXEMPLES DES MÉTHODES ARRAY AVEC LES DONNÉES PENGUINS ===\n");
-console.log(`Nombre total de pingouins: ${/* TODO */}\n`);
+console.log(`Nombre total de pingouins: ${penguins.length}\n`);
 
 // ===== MÉTHODES D'ACCÈS AUX ÉLÉMENTS =====
 
